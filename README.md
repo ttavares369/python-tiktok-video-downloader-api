@@ -4,7 +4,7 @@ A lightning-fast Python script to extract direct MP4 download links from TikTok,
 
 ## 🚀 How to use
 
-1. **Get your API Key:** Get your free API key at [RapidAPI - Video Downloader]([https://rapidapi.com/titavares33/api/SEU_LINK_DO_VIDEO_AQUI](https://rapidapi.com/titavares33/api/social-media-video-downloader-no-watermark)).
+1. **Get your API Key:** Get your free API key at [RapidAPI - Video Downloader](https://rapidapi.com/titavares33/api/social-media-video-downloader-no-watermark).
 
 2. **Install dependencies:**
    ```bash
